@@ -16,8 +16,8 @@ const ProjectLogo: React.FC = () => {
           </svg>
         </div>
         <div>
-          <h1 className="text-lg font-bold text-gray-900 dark:text-white">Career Insight AI</h1>
-          <p className="text-xs text-gray-600 dark:text-gray-300 italic">Elevate Your Career Path</p>
+          <h1 className="text-lg font-bold text-gray-900 dark:text-white">Harmony AI</h1>
+          <p className="text-xs text-gray-600 dark:text-gray-300 italic">Your Mental Health Companion</p>
         </div>
       </div>
     </Link>

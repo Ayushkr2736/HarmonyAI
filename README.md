@@ -1,9 +1,9 @@
-# Career Insight AI
+# Harmony AI
 
-Career Insight AI is a cutting-edge platform designed to provide personalized, AI-driven career guidance and professional insights. By leveraging advanced emotional AI and voice technology, it helps users navigate their career paths with clarity and confidence.
+Harmony AI is a cutting-edge platform designed to provide personalized, AI-driven mental health guidance and professional insights. By leveraging advanced emotional AI and voice technology, it helps users navigate their thoughts and career paths with clarity and confidence.
 
 ## Project Overview
-This project aims to bridge the gap between AI and professional development. It provides a real-time, voice-enabled interface for users to discuss their career goals, challenges, and aspirations, receiving empathetical and data-driven insights.
+This project aims to bridge the gap between AI and personal development. It provides a real-time, voice-enabled interface for users to discuss their goals, challenges, and aspirations, receiving empathetical and data-driven insights.
 
 ## Tech Stack
 - **Framework**: Next.js 15 (App Router)
@@ -14,8 +14,8 @@ This project aims to bridge the gap between AI and professional development. It 
 - **Language**: TypeScript
 
 ## Features
-- **AI Career Coaching**: Interactive voice-based career guidance sessions.
-- **Dynamic Insights**: Get immediate feedback and professional insights.
+- **AI Wellness Coaching**: Interactive voice-based guidance sessions.
+- **Dynamic Insights**: Get immediate feedback and personal insights.
 - **Secure User Management**: Robust authentication powered by Clerk.
 - **Premium Design**: Modern, responsive UI with seamless Dark/Light mode integration.
 - **Empathetic AI**: Powered by Hume AI to understand and respond to emotional nuances.
@@ -24,7 +24,7 @@ This project aims to bridge the gap between AI and professional development. It 
 1. **Clone the repository**:
    ```bash
    git clone <repository-url>
-   cd ayush-career-insight
+   cd harmony-ai
    ```
 2. **Install dependencies**:
    ```bash
