@@ -1,9 +1,9 @@
-# Harmony AI
+# Harmony AI - Your Personal AI Therapist
 
-Harmony AI is a cutting-edge platform designed to provide personalized, AI-driven mental health guidance and professional insights. By leveraging advanced emotional AI and voice technology, it helps users navigate their thoughts and career paths with clarity and confidence.
+Harmony AI is an advanced AI-powered therapist designed to provide personalized mental health support and emotional guidance. It leverages cutting-edge voice technology and emotional AI to offer meaningful conversations, emotional assistance, and self-improvement insights.
 
 ## Project Overview
-This project aims to bridge the gap between AI and personal development. It provides a real-time, voice-enabled interface for users to discuss their goals, challenges, and aspirations, receiving empathetical and data-driven insights.
+This project focuses on providing accessible and empathetic mental health support. By using real-time voice interaction, Harmony AI helps users navigate their emotions, stress, and daily challenges in a safe and confidential environment.
 
 ## Tech Stack
 - **Framework**: Next.js 15 (App Router)
@@ -14,21 +14,21 @@ This project aims to bridge the gap between AI and personal development. It prov
 - **Language**: TypeScript
 
 ## Features
-- **AI Wellness Coaching**: Interactive voice-based guidance sessions.
-- **Dynamic Insights**: Get immediate feedback and personal insights.
-- **Secure User Management**: Robust authentication powered by Clerk.
-- **Premium Design**: Modern, responsive UI with seamless Dark/Light mode integration.
-- **Empathetic AI**: Powered by Hume AI to understand and respond to emotional nuances.
+- **AI-Driven Therapy**: Engage in real-time voice sessions with an empathetic AI.
+- **Emotional Insights**: Receive feedback based on emotional nuances and vocal expressions.
+- **Secure & Private**: Robust authentication and data protection powered by Clerk.
+- **Modern UI**: Clean, responsive design with full light/dark mode support.
+- **Personalized Experience**: Tailored conversations that adapt to your emotional state.
 
 ## Setup Instructions
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
-   cd harmony-ai
+   git clone https://github.com/Ayushkr2736/HarmonyAI.git
+   cd HarmonyAI
    ```
 2. **Install dependencies**:
    ```bash
-   npm install
+   npm install --legacy-peer-deps
    ```
 3. **Set up environment variables**:
    Create a `.env.local` file with the following:
@@ -45,8 +45,11 @@ This project aims to bridge the gap between AI and personal development. It prov
    ```
 
 ## Folder Structure
-- `app/`: Contains the main application routes and global layouts.
-- `components/`: Reusable UI components including the Chat interface and Navigation.
-- `utils/`: Helper functions for authentication and API integrations.
-- `public/`: Static assets and public icons.
-- `components/logos/`: Brand-specific logo components.
+- `app/`: Main application routes and global layouts.
+- `components/`: UI components (Chat, Voice Visualizer, Navigation).
+- `utils/`: Helper functions for AI integration and styling.
+- `public/`: Static assets and icons.
+- `components/logos/`: Branding and logo components.
+
+---
+Built with ❤️ by [Ayush Rajak](https://github.com/Ayushkr2736)

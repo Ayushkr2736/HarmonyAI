@@ -23,8 +23,8 @@ const geistMono = Geist_Mono({
 })
 
 export const metadata: Metadata = {
-  title: 'Harmony AI - Your AI-Powered Personal Guidance',
-  description: 'A platform for personalized AI-driven insights and assistance.',
+  title: 'Harmony AI - Your AI-Powered Mental Health Companion',
+  description: 'A platform for personalized AI therapy and emotional assistance.',
 }
 
 export default function RootLayout({
@@ -53,7 +53,7 @@ export default function RootLayout({
                 <h1 className="text-2xl font-semibold">
                   Welcome to Harmony AI 🧘‍♀️
                 </h1>
-                <p className="text-gray-600">Sign in to access your personal AI assistant.</p>
+                <p className="text-gray-600">Sign in to access your AI companion.</p>
                 <div className="flex gap-4">
                   <SignInButton mode="modal">
                     <button className="rounded-lg px-4 py-2 bg-black text-white hover:bg-gray-900">
